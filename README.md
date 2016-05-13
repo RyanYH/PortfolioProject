@@ -9,4 +9,4 @@ Public DNS 	ec2-52-79-164-118.ap-northeast-2.compute.amazonaws.com  </br>
 User name 	Administrator </br>
 Password 	  YrkXCrL;hV </br>
 
-참고url :<a herf=" http://www.pyrasis.com/private/2014/09/30/publish-the-art-of-amazon-web-services-book">클릭</a>
+참고url :  http://www.pyrasis.com/private/2014/09/30/publish-the-art-of-amazon-web-services-book
